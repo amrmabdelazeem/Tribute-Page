@@ -1,5 +1,5 @@
 # Tribute-Page
-Building a tribute page for a famous charcter as a tast for freeCodeCamp.
+Building a tribute page for a famous charcter as a task for freeCodeCamp.
 
 
 Final output should look like this:
